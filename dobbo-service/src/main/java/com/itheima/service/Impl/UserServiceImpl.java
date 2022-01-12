@@ -15,6 +15,6 @@ public class UserServiceImpl implements UserService {
 
 
     public String sayHello() {
-        return "hello dubbo and hello world!";
+        return "hello dubbo and hello world! LBWNB";
     }
 }
