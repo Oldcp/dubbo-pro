@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dobbo-service:war">
+    <output-path>$PROJECT_DIR$/dobbo-service/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>dobbo-service</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="dobbo-server-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="dobbo-service:war exploded" />
+    </root>
+  </artifact>
+</component>

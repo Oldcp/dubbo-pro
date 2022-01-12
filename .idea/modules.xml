@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dobbo-service/dobbo-service.iml" filepath="$PROJECT_DIR$/dobbo-service/dobbo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dobbo-web/dobbo-web.iml" filepath="$PROJECT_DIR$/dobbo-web/dobbo-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-interface/dubbo-interface.iml" filepath="$PROJECT_DIR$/dubbo-interface/dubbo-interface.iml" />
+    </modules>
+  </component>
+</project>
